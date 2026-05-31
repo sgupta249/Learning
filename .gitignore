@@ -1,0 +1,12 @@
+# JetBrains IDE project files
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+
+# Node / Python / other common runtime artifacts (optional)
+# node_modules/
+# __pycache__/
+
